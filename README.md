@@ -8,7 +8,7 @@ My expertise extends beyond coding to encompass technical mentorship, Mobile App
 - 💞️ I’m looking to collaborate on Projects and deliver high impact services to clients.
 - 📫 Reach me via: email: williamofosu677@gmail.com.
 - ⚡ Tech Stacks I use not limited to: Reactjs for frontend, Ruby/Rails, Nodejs with Expressjs for Backend, MongoDb & Postgres, ReactNative for Mobile Development.
-- 🧠🫣 I'm currently learning ASP.NET & C#.
+- 🧠🫣 I'm currently learning Go-lang.
 
 <!---
 1253William/1253William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
