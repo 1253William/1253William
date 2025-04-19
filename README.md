@@ -1,6 +1,6 @@
  👋 Hi, I’m William Ofosu Parwar
  
- I am a dedicated Software Engineer with 4 years of experience designing and developing enterprise-level software.
+ I am a dedicated Software Engineer with 5 years of experience designing and developing enterprise-level software.
 My expertise extends beyond coding to encompass technical mentorship, Mobile Application Development and Web Master responsibilities. My passion for Computer Science, Information Systems, and Emerging Technologies drives me to craft captivating designs for Web and Mobile interfaces.
 
 - 👀 My research interest lies in Distributed Systems, Network-Based Applications & Computer Architecture.
