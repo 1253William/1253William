@@ -10,6 +10,7 @@ My expertise extends beyond coding to encompass technical mentorship, Mobile App
 - ⚡ Tech Stacks I use not limited to: Nodejs with TypeScript, Expressjs & Nestjs for Backend Development, MongoDb & Postgres/Supabase for Database Management.
 - 🧠🫣 I'm currently learning Go-lang.
 
+[![Peerlist](https://github-readme-badge.peerlist.io/api/williamoo?style=social)](https://peerlist.io/williamoo) 
 <!---
 1253William/1253William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
