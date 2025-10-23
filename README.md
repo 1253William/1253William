@@ -7,8 +7,7 @@ My expertise extends beyond coding to encompass technical mentorship, Mobile App
 - 🌱 I’m building StealthMobility Labs Inc, a Mobility Research and Development Startup.
 - 💞️ I’m looking to collaborate on Projects and deliver high impact services to clients.
 - 📫 Reach me via: email: williamofosu677@gmail.com.
-- ⚡ Tech Stacks I use not limited to: Nodejs with TypeScript, Expressjs & Nestjs for Backend Development, MongoDb & Postgres/Supabase for Database Management.
-- 🧠🫣 I'm currently learning Go-lang.
+- ⚡ Tech Stacks I use not limited to: Nodejs with TypeScript, Expressjs & Nestjs, Python/FastAPI for Backend Development, MongoDb & Postgres/Supabase for Database Management.
 
 <!---
 1253William/1253William is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
